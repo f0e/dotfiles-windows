@@ -4,6 +4,6 @@
 
 managed with [yadm](https://yadm.io/)
 
-see also [dotfiles (unix)](https://github.com/f0e/dotfiles)
+see also: [dotfiles (unix)](https://github.com/f0e/dotfiles)
 
 some stuff from https://github.com/BreadOnPenguins/dots
